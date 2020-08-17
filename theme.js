@@ -1,4 +1,4 @@
-$("#myselect option[value=3]").attr('selected', 'selected');
+jQuery("#myselect option[value=3]").attr('selected', 'selected');
  
-// Or just...
-$("#myselect").val(3);
+// Or just ...
+jQuery("#myselect").val(3);
